@@ -1,1 +1,1 @@
-# c-174-barcode
+# PRO-C174-Teacher-Boilerplate
